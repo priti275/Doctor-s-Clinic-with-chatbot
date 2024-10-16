@@ -1,0 +1,1 @@
+A web-based Doctor's Clinic platform featuring a virtual assistant and chatbot, developed using Python, HTML, CSS, and JavaScript. The virtual assistant helps with appointment scheduling, medical FAQs, and patient information management, providing users with an intuitive healthcare experience.
